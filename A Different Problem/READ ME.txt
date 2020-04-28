@@ -1,0 +1,2 @@
+Prompt can be found at: https://open.kattis.com/problems/different
+
